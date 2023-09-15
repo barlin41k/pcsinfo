@@ -1,7 +1,13 @@
 import psutil
 import os
-import GPUtil
-import cpuinfo
+try:
+    import GPUtil
+    import cpuinfo
+except ModuleNotFoundError:
+    os.system("pip install GPUtil")
+    os.system("pip install cpuinfo")
+    import GPUtil
+    import cpuinfo
 
 class Computer:
     def __init__(self):
