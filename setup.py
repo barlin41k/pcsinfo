@@ -12,10 +12,10 @@ setup(
 # pcsinfo - what is this?
 `pcsinfo` **- a module for obtaining information about the computer and computer users. It has a clear interface, thanks to which there is no need to delve into the module.**
 
-- Examples and more in the [GitHub]()
+- Examples and more in the [GitHub](https://github.com/barlin41k/pcsinfo)
 """,
     long_description_content_type="text/markdown",
     url="https://github.com/barlin41k/barladb",
     project_urls={
-        "GitHub": "https://github.com/barlin41k/barladb",
+        "GitHub": "https://github.com/barlin41k/pcsinfo",
     })
