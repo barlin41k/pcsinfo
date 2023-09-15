@@ -15,7 +15,7 @@ setup(
 - Examples and more in the [GitHub](https://github.com/barlin41k/pcsinfo)
 """,
     long_description_content_type="text/markdown",
-    url="https://github.com/barlin41k/barladb",
+    url="https://github.com/barlin41k/pcsinfo",
     project_urls={
         "GitHub": "https://github.com/barlin41k/pcsinfo",
     })
