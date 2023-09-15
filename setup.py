@@ -4,7 +4,7 @@ setup(
     name="pcsinfo",
     version='0.1.0',
     description='A easy module for obtaining information about a PC',
-    packages=['pcsinfo', 'gputil', 'cpuinfo'],
+    packages=['pcsinfo'],
     author_email='sasaigrypocta@gmail.com',
     author="barlin41k",
     zip_safe=False,
